@@ -46,7 +46,7 @@ A built-in animation visualizes the evolution step by step.
 ## 📂 Project Structure
 
 ```
-market_simulation.py    # Main simulation and visualization code
+order_book_sim.py    # Main simulation and visualization code
 ```
 
 ---
